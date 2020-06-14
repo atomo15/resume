@@ -1,6 +1,6 @@
 # Movietheater Project: 
 
-## To Test SSO:Progress from Assignment 13c to be Final-Sprint
+## To Test SSO:
 ### Login Member Section
 - http://localhost:8080/projectv2/member.php
 - Hit sign in google button
